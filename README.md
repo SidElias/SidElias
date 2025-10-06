@@ -1,20 +1,20 @@
-# 💫 About Me:
+# About Me:
 I'm Sid Iliyasu ! A graduate at Imperial College London with a passion for building intelligent systems. My goal is to apply my background in robotics vision, AI/ML, cryptography, and quantum computing to engineer novel solutions for complex, real-world challenges.
-<br><br>🔭 I’m currently working on...
-<br>Authoring a research paper on Quantum-Enhanced Markov Chain Monte Carlo, a project that originated at the City of London Quantum Hackathon.
-<br>Developing an AI compliance platform as an extension of my Master's project, while continuously keeping up with state-of-the-art research in the field.
-<br><br>🌱 I’m always learning...
-<br>Advanced algorithms for Robotic Perception and SLAM (Simultaneous Localization and Mapping).
-<br>Deepening my understanding of quantum computing and libraries like Qiskit to build more robust hybrid models.
-<br><br>👯 I’m looking to collaborate on...
-<br>Research projects in robotics, computer vision, cryptography, and the integration of quantum computing in AI.
-<br>Open-source projects focused on automation, embedded systems, or assistive technologies.
-<br>Challenging hackathons that push the boundaries of engineering and AI.
-<br><br>🤔 I’m looking for help with...
-<br>Connecting with researchers and engineers who are scaling robotic systems from prototype to production environments.
-<br>Gaining deeper insights into the practical application of quantum algorithms in machine learning.
-<br><br>💬 Ask me about...
-<br>Anything related to robotics, computer vision, AI/ML, quantum computing, or embedded systems! I'm always excited to discuss new ideas and share what I've learned. You can also ask me about my research experiences in Japan, Malaysia, and the UK!
+## 🔭 I’m currently working on...
+Authoring a research paper on Quantum-Enhanced Markov Chain Monte Carlo, a project that originated at the City of London Quantum Hackathon.
+Developing an AI compliance platform as an extension of my Master's project, while continuously keeping up with state-of-the-art research in the field.
+## 🌱 I’m always learning...
+Advanced algorithms for Robotic Perception and SLAM (Simultaneous Localization and Mapping).
+Deepening my understanding of quantum computing and libraries like Qiskit to build more robust hybrid models.
+## 👯 I’m looking to collaborate on...
+Research projects in robotics, computer vision, cryptography, and the integration of quantum computing in AI.
+Open-source projects focused on automation, embedded systems, or assistive technologies.
+Challenging hackathons that push the boundaries of engineering and AI.
+## 🤔 I’m looking for help with...
+Connecting with researchers and engineers who are scaling robotic systems from prototype to production environments.
+Gaining deeper insights into the practical application of quantum algorithms in machine learning.
+## 💬 Ask me about...
+Anything related to robotics, computer vision, AI/ML, quantum computing, or embedded systems! I'm always excited to discuss new ideas and share what I've learned. You can also ask me about my research experiences in Japan, Malaysia, and the UK!
 <br><br>⚡ Fun fact: I've had the unique opportunity to work on projects in three different continents!
 
 <div align="center">
